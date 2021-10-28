@@ -1,0 +1,248 @@
+{
+    "NIKE": [
+        {
+            "extra":  "",
+            "details": "Top 1 Nike"
+        },
+        {
+            "extra": "",
+            "details": "Nike, Inc. is a corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, and accessories."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: United States"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1964"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $36.8b"
+        }
+    ],
+    
+    "LV": [
+        {
+            "extra":  "",
+            "details": "Top 2 Louis Vuitton"
+        },
+        {
+            "extra": "",
+            "details": "Louis Vuitton is the world's most valuable luxury brand and is a division of LVMH. Its products include leather goods, handbags, trunks, shoes, watches, jewelry and accessories."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: France"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1854"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $32.3b"
+        }
+    ],
+    
+     "HERM": [
+        {
+            "extra":  "",
+            "details": "TOP 3 Hermes"
+        },
+        {
+            "extra": "",
+            "details": "Hermes specializes in leather goods, lifestyle accessories, home furnishings, perfumery, jewelry, watches, and ready-to-wear."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: France"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1837"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $18.3b"
+        }
+    ],
+    
+     "GUCCI": [
+        {
+            "extra":  "",
+            "details": "TOP 4 Gucci"
+        },
+        {
+            "extra": "",
+            "details": "Gucci’s product lines include handbags, ready-to-wear, footwear, accessories, makeup, fragrances, and home decoration."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Italy"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1921"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $18.2b"
+        }
+    ],
+    
+    "AD": [
+        {
+            "extra":  "",
+            "details": "TOP 5 Adidas"
+        },
+        {
+            "extra": "",
+            "details": "Adidas is a German multinational corporation that designs and manufactures shoes, clothing, and accessories. It is the largest sportswear manufacturer in Europe, and the second-largest in the world, after Nike."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Germany"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1949"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $16.4b"
+        }
+    ],
+    
+    
+    "ZARA": [
+        {
+            "extra":  "",
+            "details": "TOP 6 Zara"
+        },
+        {
+            "extra": "",
+            "details": "Zara SA, stylized as ZARA, specializes in fast fashion, and products include clothing, accessories, shoes, swimwear, beauty, and perfumes."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Spain"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1975"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $13.5b"
+        }
+    ],
+    
+        
+    "HM": [
+        {
+            "extra":  "",
+            "details": "TOP 7 H&M"
+        },
+        {
+            "extra": "",
+            "details": "H&M is a Swedish multinational clothing-retail company known for its fast-fashion clothing for men, women, teenagers, and children."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Swedan"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1947"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $11.5b"
+        }
+    ],
+    
+    "CART": [
+        {
+            "extra":  "",
+            "details": "TOP 8 Cartier"
+        },
+        {
+            "extra": "",
+            "details": "Cartier is a French luxury goods conglomerate that designs, manufactures, distributes, and sells jewelry and watches."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: France"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1847"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $10.7b"
+        }
+    ],
+    
+     "LULU": [
+        {
+            "extra":  "",
+            "details": "TOP 9 Lululemon"
+        },
+        {
+            "extra": "",
+            "details": "Lululemon Athletica is a technical athletic apparel company for yoga, running, training, and most other sweaty pursuits."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Canada"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1964"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $9.6b"
+        }
+    ],
+    
+     "MON": [
+        {
+            "extra":  "",
+            "details": "TOP 10 Moncler"
+        },
+        {
+            "extra": "",
+            "details": "Moncler specializes in high-end outerwear clothing."
+        },
+
+        {
+            "extra": "",
+            "details": "ORIGIN: Italy"
+        },
+        {
+            "extra": "",
+            "details": "FOUNDED: 1952"
+        },
+        {
+            "extra": "",
+            "details": "VALUE: $9.2b"
+        }
+    ]
+    
+    
+    
+   
+    
+}

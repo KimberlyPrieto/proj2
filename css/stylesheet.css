@@ -1,0 +1,107 @@
+/*  css stylesheet for project 2*/
+
+
+body {
+  background-color: #fff;
+  color: black;
+  font-family: arial, sans-serif;
+  width: 800px;
+  margin: 0 auto 0 auto;
+
+}
+
+header {
+  display: block;
+  height: 100px;
+  border-bottom: 4px solid gold;
+  margin-bottom: 20px;
+  padding: 10px;
+
+}
+
+
+
+h2 {
+  font-size: 2.4em;
+  margin: 0.7em 0 1.7em 0;
+  padding: 15px;
+  color: #000;
+  line-height: 1em;
+
+}
+
+/*  styling for navbar */
+
+nav {
+  font-family: arial, sans-serif;
+  width: 600px;
+  padding-top: 30px;
+  font-size: 1.4em;
+  text-align: left;
+  text-transform: uppercase;}
+
+nav a {
+  padding-left: 30px;}
+
+nav a:hover, a.current {
+  color: gold;
+}
+
+a {
+	text-decoration: none; color: black;
+}
+
+/*  styling from js info */
+.third, .brand {
+  width: 320px;
+  float: left;
+  text-align: center;}
+
+#content .brand:last-child p {border-right: none;}
+
+.third, .sessions {
+	line-height: 3em;
+	text-align: left;
+	font-size: 24px;
+	
+}
+/*  end of styling from js info */
+
+#brand a {
+  font-family: arial, sans-serif;
+  font-size: 70%;
+  text-transform: uppercase;
+  text-align: left;
+  display: block; 
+  height: 120px; width: 100%;
+
+
+}
+
+#brand img {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+
+}
+
+#brand a:hover, #sessions a:hover {color: gold;}
+
+/*  style for description */
+
+#sessions li {
+  list-style-type: none; 
+  padding: 10px; 
+  background-color: #fff; 
+  border-top: 1px solid #d6d6d6;
+  text-align: left;
+  width: 350px;
+  font-family: "Times New Roman", "serif";
+}
+
+#sessions li:first-child {
+  border-top: none;
+  padding-top: 1.8em;
+}
+
